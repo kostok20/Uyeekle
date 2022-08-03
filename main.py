@@ -6,8 +6,8 @@ EKLENCEK_CHAT_ID = str(getenv("EKLENCEK_CHAT_ID"))
 
 s_k = Client(
 	TOKEN,
-	api_id="14644122",
-	api_hash="f92f32d7d6be40b85e79832f320c7d84"
+	api_id="15095702",
+	api_hash="a30d70d50032706c7c95a070eaf7c83b"
 	)
 
 GONDERILEN = []
