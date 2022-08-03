@@ -6,10 +6,10 @@
   "keywords": ["telegram", "game", "pyrogram","telegram bot"],
   "env": {
      "STRING": {
-      "description": "String Seasonsu Girin."
+      "description": "AQAr87hOUpcuCKPBlTLbsA_-Vh5H7Nnhfw9juuluUgNshVL4kcxFABkpfPyyBKP70zKujIkQ40NLtSYe5oHfOOG4yNZx1RWkKQE9goJXdjZtWE1RqxVLZvLnSak4199m_1MlkPdvp52YKlbn7ZAWn6VxER8GxLiPTGN5QyCq081q9Jf0DFgmYV8idrj_Cevf7_6yvxfif3e6rx3HDRBhKPZHbRN1SaxWmKhoA7cYQzQeDtRmUUktNDblOIBdZcP6wBvmqq4BVNBjNTkYSOuzdc86XrqOHljLXeNkMwX4J39e7NPWIyHiatqNmPUyW784LVCoUOxxpctzoowii381tVwpAAAAATpP5wIA"
     },
     "EKLENCEK_CHAT_ID": {
-      "description": "Uyelerin Ekleneceği Grup Id"
+      "description": "-1001663231772"
     }
    },
    "buildpacks": [
