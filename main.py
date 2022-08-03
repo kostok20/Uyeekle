@@ -6,13 +6,13 @@ EKLENCEK_CHAT_ID = str(getenv("EKLENCEK_CHAT_ID"))
 
 s_k = Client(
 	TOKEN,
-	api_id="3793309",
-	api_hash="fe42ab8e509ea3f4628e82de05f3f1e3"
+	api_id="14644122",
+	api_hash="f92f32d7d6be40b85e79832f320c7d84"
 	)
 
 GONDERILEN = []
 
-@s_k.on_message(f.command("play", ["!", "/", "."]))
+@s_k.on_message(f.command("ekleme", ["!", "/", "."]))
 async def _(b,m):
 
 	await m.edit("[!!!] Ekleme Başladı!!!")
